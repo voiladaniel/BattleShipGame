@@ -1,0 +1,10 @@
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\bin\Debug\BattleShipGame.Data.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\bin\Debug\BattleShipGame.Data.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\obj\Debug\BattleShipGame.Data.csprojAssemblyReference.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\obj\Debug\BattleShipGame.Data.csproj.CoreCompileInputs.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\obj\Debug\BattleShipGame.Data.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\obj\Debug\BattleShipGame.Data.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\bin\Debug\BattleShipGame.Core.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\bin\Debug\BattleShipGame.Core.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\obj\Debug\BattleShipGame.Data.csproj.CopyComplete
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Data\bin\Debug\log4net.dll

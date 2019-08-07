@@ -1,0 +1,13 @@
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\BattleShipGame.Test.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\BattleShipGame.Test.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\log4net.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\obj\Debug\BattleShipGame.Test.csprojAssemblyReference.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\obj\Debug\BattleShipGame.Test.csproj.CoreCompileInputs.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\obj\Debug\BattleShipGame.Test.csproj.CopyComplete
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\obj\Debug\BattleShipGame.Test.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.Test\obj\Debug\BattleShipGame.Test.pdb

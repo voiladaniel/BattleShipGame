@@ -1,0 +1,389 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Autofac/4.9.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Autofac.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "BattleShipGame.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "BattleShipGame.Data": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        }
+      },
+      "BattleShipGame.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        }
+      },
+      "BattleShipGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Autofac/4.9.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Autofac.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "BattleShipGame.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "BattleShipGame.Data": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        }
+      },
+      "BattleShipGame.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        }
+      },
+      "BattleShipGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Autofac/4.9.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Autofac.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "BattleShipGame.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "BattleShipGame.Data": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        }
+      },
+      "BattleShipGame.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        }
+      },
+      "BattleShipGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Autofac/4.9.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Autofac.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "BattleShipGame.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "BattleShipGame.Data": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.BusinessLogic.dll": {}
+        }
+      },
+      "BattleShipGame.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Core.dll": {}
+        }
+      },
+      "BattleShipGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "BattleShipGame.Core": "1.0.0",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/4.9.3": {
+      "sha512": "MW8tWselk92OzGRRlUUgakGTQ/mlxfs0ZJ0XF5MLDhe6KT+TE88kBtstGiARbU/tTxjUrDNqxZOkEmkM1HcfPg==",
+      "type": "package",
+      "path": "autofac/4.9.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.4.9.3.nupkg.sha512",
+        "autofac.nuspec",
+        "lib/net45/Autofac.dll",
+        "lib/net45/Autofac.pdb",
+        "lib/net45/Autofac.xml",
+        "lib/netstandard1.1/Autofac.dll",
+        "lib/netstandard1.1/Autofac.pdb",
+        "lib/netstandard1.1/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml"
+      ]
+    },
+    "log4net/2.0.8": {
+      "sha512": "N41MQGHZImiCfn0cUuSBjZxrcNfIQCuCgQP0rpgB3J/NWponEh3lc1LxJEuIsPAR9Oc1jVvfkNNFCY1C5hf9LA==",
+      "type": "package",
+      "path": "log4net/2.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20-full/log4net.dll",
+        "lib/net20-full/log4net.xml",
+        "lib/net35-client/log4net.dll",
+        "lib/net35-client/log4net.xml",
+        "lib/net35-full/log4net.dll",
+        "lib/net35-full/log4net.xml",
+        "lib/net40-client/log4net.dll",
+        "lib/net40-client/log4net.xml",
+        "lib/net40-full/log4net.dll",
+        "lib/net40-full/log4net.xml",
+        "lib/net45-full/log4net.dll",
+        "lib/net45-full/log4net.xml",
+        "lib/netstandard1.3/log4net.dll",
+        "log4net.2.0.8.nupkg.sha512",
+        "log4net.nuspec"
+      ]
+    },
+    "BattleShipGame.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../BattleShipGame.BusinessLogic/BattleShipGame.BusinessLogic.csproj",
+      "msbuildProject": "../BattleShipGame.BusinessLogic/BattleShipGame.BusinessLogic.csproj"
+    },
+    "BattleShipGame.Core/1.0.0": {
+      "type": "project",
+      "path": "../BattleShipGame.Core/BattleShipGame.Core.csproj",
+      "msbuildProject": "../BattleShipGame.Core/BattleShipGame.Core.csproj"
+    },
+    "BattleShipGame.Data/1.0.0": {
+      "type": "project",
+      "path": "../BattleShipGame.Data/BattleShipGame.Data.csproj",
+      "msbuildProject": "../BattleShipGame.Data/BattleShipGame.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Autofac >= 4.9.3",
+      "BattleShipGame.BusinessLogic >= 1.0.0",
+      "BattleShipGame.Core >= 1.0.0",
+      "BattleShipGame.Data >= 1.0.0",
+      "log4net >= 2.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dk8DanVo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.IoC\\BattleShipGame.IoC.csproj",
+      "projectName": "BattleShipGame.IoC",
+      "projectPath": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.IoC\\BattleShipGame.IoC.csproj",
+      "packagesPath": "C:\\Users\\dk8DanVo\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "D:\\Users\\dk8DanVo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.BusinessLogic\\BattleShipGame.BusinessLogic.csproj": {
+              "projectPath": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.BusinessLogic\\BattleShipGame.BusinessLogic.csproj"
+            },
+            "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.Core\\BattleShipGame.Core.csproj": {
+              "projectPath": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.Core\\BattleShipGame.Core.csproj"
+            },
+            "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.Data\\BattleShipGame.Data.csproj": {
+              "projectPath": "D:\\Users\\dk8DanVo\\Desktop\\BattleShipGame\\BattleShipGame\\BattleShipGame.Data\\BattleShipGame.Data.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[4.9.3, )"
+          },
+          "log4net": {
+            "target": "Package",
+            "version": "[2.0.8, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

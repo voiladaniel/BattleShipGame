@@ -1,0 +1,12 @@
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.BusinessLogic.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.BusinessLogic.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\obj\Debug\BattleShipGame.BusinessLogic.csprojAssemblyReference.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\obj\Debug\BattleShipGame.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\obj\Debug\BattleShipGame.BusinessLogic.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\obj\Debug\BattleShipGame.BusinessLogic.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.Data.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.Data.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\obj\Debug\BattleShipGame.BusinessLogic.csproj.CopyComplete
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.Core.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\BattleShipGame.Core.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.BusinessLogic\bin\Debug\log4net.dll

@@ -1,0 +1,16 @@
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.IoC.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.IoC.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\Autofac.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\Autofac.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.BusinessLogic.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.BusinessLogic.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\obj\Debug\BattleShipGame.IoC.csprojAssemblyReference.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\obj\Debug\BattleShipGame.IoC.csproj.CoreCompileInputs.cache
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\obj\Debug\BattleShipGame.IoC.csproj.CopyComplete
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\obj\Debug\BattleShipGame.IoC.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\obj\Debug\BattleShipGame.IoC.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.Data.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.Data.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.Core.dll
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\BattleShipGame.Core.pdb
+D:\Users\dk8DanVo\Desktop\BattleShipGame\BattleShipGame\BattleShipGame.IoC\bin\Debug\log4net.dll
